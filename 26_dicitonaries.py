@@ -41,7 +41,7 @@ dict2 = {
     "name" : "harsh", "age" : 20, "college" : "IILM",
 }
 dict2 ["name"] = "hats"         #overwrites
-dict2 ["surname"] : "off"       #adds new key : value pair 
+dict2 ["surname"] = "off"     #adds new key : value pair 
 print (dict2)
 
 null_dictionary = {}
