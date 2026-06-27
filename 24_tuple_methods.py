@@ -3,4 +3,5 @@ print(tuple.count(1))  #this will count the number of occurrences of 1 in the tu
 print(tuple.index(1))  #this will return the index of the first occurrence of 1 in the tuple
 
 tuple2=(4, 5, 5, 7, "harsh", "apna college", "how")
-print(tuple2.count("h")) #this will count the number of occurrences of "h" in the tuple
+print(tuple2.count("h")) #name error if you use tuple2.count(h) because h is not defined 
+

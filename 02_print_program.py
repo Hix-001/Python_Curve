@@ -24,16 +24,3 @@ print (variable1)
 h1='how are you?'
 print (h1)
 
-name = "Harsh" 'HARSH JHA'
-age = 20
-price = 100.50
-print (type(name))
-print (type(age))
-print (type(price))
-
-age = 20
-old = False
-a =None
-agee = none
-print (type(old))
-print (type(a))

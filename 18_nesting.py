@@ -24,3 +24,4 @@ if age >= 12:
     # ---- END OF NESTED CODE ----
 else:
     print("Access Denied: You must be at least 12 years old to enter the arcade.")
+    

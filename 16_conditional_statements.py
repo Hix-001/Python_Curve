@@ -53,3 +53,9 @@ elif(light == "green"):
 else:
     print("invalid light")
 
+age = int(input("Enter your age: "))
+if(age >= 18):
+    print("can drive")
+else:
+    print("cannot drive")
+
